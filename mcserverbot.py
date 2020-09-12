@@ -3,8 +3,8 @@ from discord.ext import commands
 import requests
 
 PREFIX = '.' # default prefix is .
-SERVER_IP = 'Enter your server here'
-TOKEN = 'Enter bot token here'
+SERVER_IP = '' # Enter server IP in the quatations
+TOKEN = '' # Enter bot token in the quatations
 
 client = commands.Bot(command_prefix = PREFIX)
 
