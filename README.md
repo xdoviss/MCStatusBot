@@ -1,5 +1,7 @@
 # MCStatusBot
-Discord bot that shows your Minecraft server's status.
+Discord bot that shows your Minecraft server's status.   
+  
+![](https://lunus.xyz/kl3XMG.png)
 ## How to set up
 ### Making the bot
 1. Go to https://discord.com/developers/applications
